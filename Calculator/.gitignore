@@ -1,0 +1,25 @@
+# Игнорировать всё
+*
+
+# Но не игнорировать .gitignore и файлы кода
+!.gitignore
+!*.cs
+
+# Игнорировать временные папки .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.tmp
+*.log
+*.cache
+*.db
+*.DS_Store
+Thumbs.db
+*.exe
+*.dll
+*.pdb
+*.dbmdl
+*.opendb
+*.vsconfig
