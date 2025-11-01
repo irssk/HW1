@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\c# pro\\Calculator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{534A9D40-37A2-4268-B865-171FA8AAC539}|Calculator\\Calculator.csproj|c:\\c# pro\\calculator\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534A9D40-37A2-4268-B865-171FA8AAC539}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{534A9D40-37A2-4268-B865-171FA8AAC539}|Calculator\\Calculator.csproj|c:\\c# pro\\calculator\\calculator\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{534A9D40-37A2-4268-B865-171FA8AAC539}|Calculator\\Calculator.csproj|solutionrelative:calculator\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\c# pro\\Calculator\\Calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.cs",
+              "ToolTip": "C:\\c# pro\\Calculator\\Calculator\\Calculator.cs",
+              "RelativeToolTip": "Calculator\\Calculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:38:53.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\c# pro\\Calculator\\Calculator\\.gitignore",
               "RelativeDocumentMoniker": "Calculator\\.gitignore",
